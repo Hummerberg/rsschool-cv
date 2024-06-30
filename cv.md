@@ -21,7 +21,7 @@ Born and raised on the Kamchatka Peninsula in Russia. Graduated from Kamchatka S
 * University:
   - Kamchatka State Technical University - Finace and credit
 * Courses: 
-  - Python basics on Coursera.org ([https://coursera.org/verify/8B3JBCQ8GE39](address "Verification link"))
+  - Python basics on Coursera.org (https://coursera.org/verify/8B3JBCQ8GE39)
   - Python basics on Mimo.org (in progress)
   - JavaScript basics on Mimo.org (in progress)
 # Languages:
