@@ -1,4 +1,5 @@
 # Dmitry Chizhikov aka Hummerberg
+Junior Software Engineer (Front-end / JavaScript)
 # Contact information:
 * Phone: **+7 999 997 23 91**
 * E-mail: **code.chizhikov@gmail.com**
