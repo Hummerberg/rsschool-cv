@@ -19,7 +19,7 @@ Born and raised on the Kamchatka Peninsula. Graduated from Kamchatka State Techn
 * Figma
 
 # Code example:
-`console.log("Hello World");`
+`console.log('Hello World');`
 
 # Experience:
 * none
