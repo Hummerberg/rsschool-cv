@@ -18,7 +18,7 @@ body {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #4d2323;
+  color: #000000;
 }
 
 .container {
@@ -28,7 +28,7 @@ body {
 }
 
 .header {
-  background-color: #626068;
+  background-color: #ff0000;
 }
 
 .nav-list {
@@ -55,7 +55,7 @@ body {
   bottom: -5px;
   width: calc(100% - 24px);
   height: 2px;
-  background-color: #fff;
+  background-color: #ff0000;
   opacity: 0;
   transition: .5s;
 }
@@ -90,7 +90,7 @@ body {
   width: calc(50% - 20px);
   padding: 10px;
   padding-bottom: 35px;
-  border-bottom: 1px solid #672f2f;
+  border-bottom: 1px solid #ff0000;
 }
 
 .section-education,
@@ -104,7 +104,7 @@ body {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 5px;
-  color: #829985;
+  color: #ff0000;
 }
 
 .section-profile {
@@ -133,7 +133,7 @@ body {
   position: relative;
   padding: 0;
   margin-bottom: 20px;
-  color: #4d2323;
+  color: #ff0000;
   font-size: 32px;
   font-weight: 300;
   letter-spacing: 10px;
@@ -149,12 +149,12 @@ body {
   margin-left: -70px;
   width: 140px;
   height: 2px;
-  background-color: #829985;
+  background-color: #ff0000;
 }
 
 .section-subtitle {
   margin-top: 20px;
-  color: #5c5c5c;
+  color: #000000;
   line-height: 50px;
   font-weight: 300;
   letter-spacing: 2px;
@@ -200,17 +200,17 @@ body {
 }
 
 .section-item span {
-  color: #829985;
+  color: #ff0000;
 }
 
 .section-item a {
   text-decoration: none;
-  color: #829985;
+  color: #ff0000;
   transition: color 0.5s;
 }
 
 .section-item a:hover {
-  color: #4d2323;
+  color: #000000;
 }
 
 .contacts-item:before {
@@ -257,7 +257,7 @@ body {
 }
 
 .footer {
-  background-color: #829985;
+  background-color: #000000;
   padding: 20px;  
 }
 
@@ -333,7 +333,7 @@ body {
     align-items: center;
   }  
   .section-education {
-    border-bottom: 1px solid #672f2f;
+    border-bottom: 1px solid #ff0000;
   }
   .footer-container {
     flex-direction: column;
@@ -355,7 +355,7 @@ body {
     height: 100vh;
     min-height: 525px;
     flex-direction: column;
-    background-color: #829985;
+    background-color: #ff0000;
   }
   .nav-list.collapsed {
     display: flex;
